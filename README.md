@@ -1,10 +1,10 @@
 # Meet - Dark
 #### Under Development
 
-A Simple Script to Make Meet - Minimal and more Low-light friendly.
+A Simple Script to Make Meet - Minimal and more Low-light friendly. This is quite creative and useful. This feature makes Google meet customisable. 
 
-Features:
- - Minimal Buttons
+The Features include:
+- Minimal Buttons
  - Dark Mode
  - Transparent Elements
  - Automatically apply theme upon Joining Meet
