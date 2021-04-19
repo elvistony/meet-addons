@@ -11,8 +11,8 @@ function googleMeetDark() {
                 // Get Audio/Video buttons before joining call and switch them off.
                 camera = document.querySelectorAll('[data-tooltip="Turn off camera (ctrl + e)"]');
                 mics = document.querySelectorAll('[data-tooltip="Turn off microphone (ctrl + d)"]');
-                if (camera[0].length > 0) camera[0].click();
-                if (mics[0].length > 0) mics[0].click();
+                if (camera.length > 0) camera[0].click();
+                if (mics.length > 0) mics[0].click();
                 status = document.querySelector('[aria-label="Leave call"]');
                 console.log("Waiting to Join Call");
             }
