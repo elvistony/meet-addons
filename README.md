@@ -10,7 +10,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Dark Mode
   - Auto Mute and Camera at Pre-joining Page
   - Removed few buttons.
-- Head over to <a target="_blank">this page</a> to get Started.
+- Head over to [this Documentation](dark-mode-minimal/) to get Started.
 
 ---
 
@@ -20,7 +20,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Auto Mute and Camera at Pre-joining Page
   - Removed few buttons.
   - Record Mode (Unstable)
-- Head over to <a target="_blank">this page</a> to get Started.
+- Head over to [this Documentation](dark-mode-maximal/) to get Started.
 
 
 ---
@@ -29,6 +29,8 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - One Person can have only one roll number.
 - One click export to announce the final attendance status (List of Roll numbers)
   - Useful for (VAST Faculty - to collect roll numbers for the ERP, easily!) 
+- Head over to [this Documentation](attendance-addon/) to get Started.
+
 
 
 Issues:
