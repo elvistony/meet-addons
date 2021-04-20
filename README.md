@@ -1,18 +1,37 @@
-# Meet - Dark
+# Google Meet Addons
 #### Under Development
 
-A Simple Script to Make Meet - Minimal and more Low-light friendly. This is quite creative and useful. This feature makes Google meet customisable. 
+Set of Scripts that makes Google Meet a little more pleasing (Not that its not convienient now...but still).
 
-The Features include:
-- Minimal Buttons
- - Dark Mode
- - Transparent Elements
- - Automatically apply theme upon Joining Meet
- 
+---
+
+### Dark Mode Minimal
+- Includes 
+  - Dark Mode
+  - Auto Mute and Camera at Pre-joining Page
+  - Removed few buttons.
+- Head over to <a target="_blank">this page</a> to get Started.
+
+---
+
+### Dark Mode with Recording (No Extra Plugins!)
+- Includes 
+  - Dark Mode
+  - Auto Mute and Camera at Pre-joining Page
+  - Removed few buttons.
+  - Record Mode (Unstable)
+- Head over to <a target="_blank">this page</a> to get Started.
+
+
+---
+### Google Meet with Attendance Tracking (No Extra Popups or Confusions)
+- Scans the chats to gather roll numbers that are mentioned.
+- One Person can have only one roll number.
+- One click export to announce the final attendance status (List of Roll numbers)
+  - Useful for (VAST Faculty - to collect roll numbers for the ERP, easily!) 
+
+
 Issues:
- - Chat bar uses inversion filter which affects the Profile Pic
- - Requires 3rd party JS Injection Extension, like Tampermonkey or CustomJavaScript(CJS)
+ - Permanant installation requires you to use third-party plugins like CustomJavascript and Tampermonkey.
      - (workaround) Copy & paste the function code into the Page - Console
      - (another workaround) Save JS Script as a bookmark
-
-[A Static - Demo](https://elvistony.github.io/meet-dark/)
