@@ -19,7 +19,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Dark Mode
   - Auto Mute and Camera at Pre-joining Page
   - Removed few buttons.
-  - Record Mode (Unstable)
+  - Record Mode (Unstable) (Works with and without Teacher Accounts!)
 - Head over to [this Documentation](dark-mode-maximal/) to get Started.
 
 
