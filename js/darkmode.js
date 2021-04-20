@@ -41,9 +41,6 @@ function googleMeetDark() {
 
         parent.children[5].style.opacity = '0.7';
 
-        // Hide Presenting Now Name
-        parent.children[0].children[1].children[1].children[0].children[1].style.display = "none";
-
         // Member Advertisement
         parent.children[0].children[2].children[0].children[0].style.display = "none"
 
@@ -59,6 +56,9 @@ function googleMeetDark() {
         //Invert sidebar colors
         parent.children[3].style.filter = "invert(0.93)";
 
+        // Hide Presenting Now Name
+        parent.children[0].children[1].children[1].children[0].children[1].style.display = "none";
+        
         console.log("Successfully Customized!");
     }
 }
