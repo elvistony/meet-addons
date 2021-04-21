@@ -21,7 +21,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Removed few buttons.
   - Record Mode (Unstable) (Works with and without Teacher Accounts!)
   - Whats Special ? (It just records the Presenter Screen and not your whole interface!)
-- UNDER CONSTRUCTION
+- Head over to [this Documentation](dark-mode-maximal/) to get Started.
 
 
 ---
@@ -30,8 +30,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - One Person can have only one roll number.
 - One click export to announce the final attendance status (List of Roll numbers)
   - Useful for (VAST Faculty - to collect roll numbers for the ERP, easily!) 
-- Head over to [this Documentation](attendance-addon/) to get Started.
-
+- Under Construction
 
 
 Issues:
