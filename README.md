@@ -33,7 +33,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - Under Construction
 
 
-Issues:
+Installation and the Issue:
  - Permanant installation requires you to use third-party plugins like CustomJavascript and Tampermonkey.
      - (workaround) Copy & paste the function code into the Page - Console
      - (another workaround) Save JS Script as a bookmark
