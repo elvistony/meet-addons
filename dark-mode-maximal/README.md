@@ -14,4 +14,4 @@
 <a href="/images/Kygo's Perfect Song 2021-3-21.webm">Download Sample Recording</a>
 
 ### Installation 
-Follow the same instructions mentioned [here](/)
+Follow the same instructions mentioned [here](https://github.com/elvistony/meet-addons/)
