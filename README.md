@@ -21,7 +21,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Removed few buttons.
   - Record Mode (Unstable) (Works with and without Teacher Accounts!)
   - Whats Special ? (It just records the Presenter Screen and not your whole interface!)
-- Head over to [this Documentation](dark-mode-maximal/) to get Started.
+- UNDER CONSTRUCTION
 
 
 ---
