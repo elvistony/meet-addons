@@ -9,4 +9,4 @@
 - Auto Mute and Camera (at Pre-join Screen)
 
 ### Installation 
-Follow the same instructions mentioned [here](/)
+Follow the same instructions mentioned [here](https://github.com/elvistony/meet-addons/)
