@@ -14,7 +14,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 
 ---
 
-### Dark Mode with Recording (No Extra Plugins!)
+### Dark Mode Maximal (Onboard Recording!)
 - Includes 
   - Dark Mode
   - Auto Mute and Camera at Pre-joining Page
