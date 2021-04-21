@@ -11,8 +11,7 @@
 
 ### See it in Action!
 <img src="/images/dark-mode-maximal-demo.gif">
-[Download Sample Recording](/images/Kygo's Perfect Song 2021-3-21.webm)
-
+<a href="/images/Kygo's Perfect Song 2021-3-21.webm">Download Sample Recording</a>
 
 ### Installation 
 Follow the same instructions mentioned [here](/)
