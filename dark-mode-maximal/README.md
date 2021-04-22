@@ -26,7 +26,7 @@ OR
 Save it as a Bookmarklet (set of codes that runs when you click it!)
 - Create a new Bookmark 
 - Copy and paste the below code as the URL of the Bookmark.  
-  (Double Click the code below to select all of it at once!)
+  (Triple Click the code below to select all of it at once!)
 - Name the bookmark as you like.
 - Voila you have a very own Bookmarklet!
 
