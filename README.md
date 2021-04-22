@@ -32,6 +32,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
   - Useful for (VAST Faculty - to collect roll numbers for the ERP, easily!) 
 - Under Construction
 
+---
 
 ### Installation
 - Head over to the js file from one of the above options.
