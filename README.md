@@ -33,7 +33,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - Under Construction
 
 
-### Installation and the 
+### Installation
 - Head over to the js file from one of the above options.
 - Temporary Installation
   - Open a Google Meet session
