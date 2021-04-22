@@ -33,7 +33,19 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - Under Construction
 
 
-Installation and the Issue:
+### Installation and the 
+- Head over to the js file from one of the above options.
+- Temporary Installation
+  - Open a Google Meet session
+  - Paste the code into the console (Ctrl+Shift+I)
+- Permanant Installation
+  - Install a Chrome Addon/ Firefox Addon like CustomJavaScript
+  - Open a google Meet session and click the CustomJavaScript extension.
+  - Paste the code into the extension's window.
+  - And voila! its done!
+
+
+### Issue:
  - Permanant installation requires you to use third-party plugins like CustomJavascript and Tampermonkey.
      - (workaround) Copy & paste the function code into the Page - Console
      - (another workaround) Save JS Script as a bookmark
