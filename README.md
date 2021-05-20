@@ -30,7 +30,7 @@ Set of Scripts that makes Google Meet a little more pleasing (Not that its not c
 - One Person can have only one roll number.
 - One click export to announce the final attendance status (List of Roll numbers)
   - Useful for (VAST Faculty - to collect roll numbers for the ERP, easily!) 
-- Under Construction
+- Head over to [this Documentation](attendance/) to get Started.
 
 ---
 
