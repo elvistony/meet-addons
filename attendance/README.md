@@ -10,7 +10,8 @@
 - Easy Copy and Paste to ERP
 
 <img src="/images/attendance-export.png">
-_Exporting Rollnumber List - Posting the List for students to confirm their presence_
+
+*Exporting Rollnumber List - Posting the List for students to confirm their presence*
 
 ### Installation 
 Follow the same instructions mentioned [here](https://github.com/elvistony/meet-addons/#installation)
