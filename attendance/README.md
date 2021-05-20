@@ -1,12 +1,16 @@
 ## Attendance AddOn
 
-<img src="/images/dark-mode-minimal.png">
+<img src="/images/attendance-window.png">
 
 
 ### Features
 - Get List of Students who responded
 - Extracts posted rollnumbers and combines it to a single attendance Roll number list
 - Seemless Integration into the Chat Window
+- Easy Copy and Paste to ERP
+
+<img src="/images/attendance-export.png">
+_Exporting Rollnumber List - Posting the List for students to confirm their presence_
 
 ### Installation 
 Follow the same instructions mentioned [here](https://github.com/elvistony/meet-addons/#installation)
